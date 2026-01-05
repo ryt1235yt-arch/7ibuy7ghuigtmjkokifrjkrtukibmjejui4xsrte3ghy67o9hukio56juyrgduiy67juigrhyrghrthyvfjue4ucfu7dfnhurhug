@@ -7,6 +7,13 @@
     "Version": "1.0"
   },
   {
+    "Type": "Progs",
+    "Name": "DUnlocker",
+    "description": "Программа предназначена для быстрого и удобного снятия системных ограничений Windows",
+    "urlDownload": "https://dejavugd.ru/program/DUnlocker.exe",
+    "Version": "1.0"
+  },
+  {
     "Type": "Virus",
     "Name": "RytAV",
     "description": "Антивирус)",
