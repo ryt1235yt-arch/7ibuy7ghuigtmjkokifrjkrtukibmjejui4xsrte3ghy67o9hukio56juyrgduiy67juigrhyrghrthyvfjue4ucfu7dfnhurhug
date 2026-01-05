@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "Progs",
+    "Name": "WinActivator",
+    "description": "Программа которая активирует твою систему",
+    "urlDownload": "https://example.com/WinActivator.exe",
+    "Version": "1.0"
+  },
+  {
+    "Type": "Virus",
+    "Name": "RytAV",
+    "description": "Антивирус (демо/пранк)",
+    "urlDownload": "https://example.com/RytAV.exe",
+    "Version": "0.1"
+  }
+]
